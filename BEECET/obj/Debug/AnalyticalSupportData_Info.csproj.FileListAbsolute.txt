@@ -1,0 +1,622 @@
+C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\obj\Debug\ResolveAssemblyReference.cache
+C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\obj\Debug\ResGen.read.1.tlog
+C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\obj\Debug\ResGen.write.1.tlog
+C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\obj\Debug\AnalyticalSupportData_info.Form1.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\obj\Debug\AnalyticalSupportData_Info.Form1.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3\bin\Debug\RevitAddInUtility.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\bin\Debug\RevitAddInUtility.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\obj\Debug\AnalyticalSupportData_info.Form1.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 3 - Copy (6)\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\bin\Debug\RevitAddInUtility.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\obj\Debug\AnalyticalSupportData_info.Form1.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 5\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\bin\Debug\RevitAddInUtility.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\AnalyticalSupportData_info.Form1.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 6\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\bin\Debug\RevitAddInUtility.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\obj\Debug\AnalyticalSupportData_info.Form1.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 8\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\bin\Debug\RevitAddInUtility.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\AnalyticalSupportData_info.Form1.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\RdlCompile.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\RdlCompile.compiled
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_info.Form1.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\RdlCompile.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\RdlCompile.compiled
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.AnalyticalSupportData_InfoForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_info.Form1.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\RdlCompile.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\RdlCompile.compiled
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (8)\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\ResGen.read.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\ResGen.write.1.tlog
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\RdlCompile.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\RdlCompile.compiled
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_info.SustainabilityEstimator.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\bin\Debug\React.NET.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\bin\Debug\React.NET.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\bin\Debug\React.NET.xml
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\AnaliticalSuppCS - Copy 9 - Copy (50) - Copy\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\bin\Debug\SteelSections_log.LDF
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\bin\Debug\React.NET.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\bin\Debug\React.NET.xml
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_info.SustainabilityEstimator.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\RdlCompile.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\RdlCompile.compiled
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.CombinationForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis_InitialCost.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.ViewAllForm2.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.CombinationForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis_InitialCost.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_info.SustainabilityEstimator.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.ViewAllForm2.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\RdlCompile.cache
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\RdlCompile.compiled
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\bin\Debug\SteelSections.mdf
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\bin\Debug\SteelSections_log.LDF
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\bin\Debug\React.NET.pdb
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\bin\Debug\React.NET.xml
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections.mdf
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections_log.ldf
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.pdb
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.xml
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CombinationForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis_InitialCost.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_info.SustainabilityEstimator.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.ViewAllForm2.resources
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.cache
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.compiled
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Oti-OBUWork\Oti-Nott\Root\Software\SourceCodes\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.EnergyUseForm.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections_log.ldf
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.pdb
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.xml
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CombinationForm.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.EnergyUseForm.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis_InitialCost.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_info.SustainabilityEstimator.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.ViewAllForm2.resources
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.cache
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.compiled
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections.mdf
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections_log.ldf
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.pdb
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.xml
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CombinationForm.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.EnergyUseForm.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis_InitialCost.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_info.SustainabilityEstimator.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.ViewAllForm2.resources
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.cache
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.compiled
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\Excel.dll
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ETONAKPO\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\Excel.pdb
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\Excel.dll
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\Excel.pdb
+C:\Users\p0077247\Google Drive\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.ExcelCoversionForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections.mdf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections_log.ldf
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\Excel.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.pdb
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.xml
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CombinationForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.EnergyUseForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.ExcelCoversionForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis_InitialCost.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_info.SustainabilityEstimator.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.ViewAllForm2.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.cache
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.compiled
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections.mdf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\SteelSections_log.ldf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\Excel.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\bin\Debug\React.NET.xml
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CombinationForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.EnergyUseForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.ExcelCoversionForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis_InitialCost.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_info.SustainabilityEstimator.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.ViewAllForm2.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\RdlCompile.compiled
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.EnergyDataForm.resources
+C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewer\obj\Debug\AnalyticalSupportData_Info.EnergyDataForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\SteelSections.mdf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\SteelSections_log.ldf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\Excel.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\React.NET.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\React.NET.xml
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.CombinationForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.EnergyDataForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.EnergyUseForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.ExcelCoversionForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.CladdingChartForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.CO2EmissionForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.FloorChartsForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis_InitialCost.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.RiskAnalysis.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_info.SustainabilityEstimator.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.FrameChartForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.MaitenanceDetailsForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\DynamicTable.ReportOptionsDialog.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.RoofChartForm.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.ViewAllForm2.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\RdlCompile.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\RdlCompile.compiled
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\Embodied Carbon Analysis.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\Embodied Carbon Analysis.dll
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\obj\Debug\AnalyticalSupportData_Info.Embodied_Energy_and_Carbon.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\ICEDatabase.mdf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation_withEnergyViewerAndCarbon\bin\Debug\ICEDatabase_log.ldf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\obj\Debug\AnalyticalSupportData_Info.Embodied_Energy_and_Carbon.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\bin\Debug\ICEDatabase.mdf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\bin\Debug\ICEDatabase_log.ldf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\bin\Debug\Embodied Carbon Analysis.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\bin\Debug\Excel.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\bin\Debug\React.NET.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\bin\Debug\React.NET.xml
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECE\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\bin\Debug\ICEDatabase.mdf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\bin\Debug\ICEDatabase_log.ldf
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\bin\Debug\AnalyticalSupportData_Info.dll.config
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\bin\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\bin\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\bin\Debug\Embodied Carbon Analysis.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\bin\Debug\Excel.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\bin\Debug\React.NET.pdb
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\bin\Debug\React.NET.xml
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.Embodied_Energy_and_Carbon.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.dll
+C:\Users\p0077247\Documents\Visual Studio 2010\Projects\SeparatedProgrammes\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.Embodied_Energy_and_Carbon.resources
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\ICEDatabase.mdf
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\ICEDatabase_log.ldf
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RevitAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RevitAPIUI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RevitAPIFoundation.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RevitDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\UtilityAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\APIDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\GraphicsAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\EssentialsDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\GeomUtilAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\FamilyDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\DetailDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\HostObjDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\SiteDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\SculptingDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\StructuralDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\InterfaceAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RebarDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\MassingDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\AssemblyDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\DPartDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\NumberingDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\StairRampDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\DBManagedServices.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\AdWindows.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RevitAddInUtility.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\APIInterop.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\UIFramework.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\AddInManager.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RevitUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\DesktopMFCAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\APIUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RevitMFCAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\EssentialsUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\DetailUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\UIFrameworkServices.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\ManagedMC3.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\Embodied Carbon Analysis.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\Excel.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\React.NET.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\React.NET.xml
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RevitAPI.xml
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\RevitAPIUI.xml
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\AnalyticalSupportData_InfoBEECET.dll.config
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\AnalyticalSupportData_InfoBEECET.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\bin\Debug\AnalyticalSupportData_InfoBEECET.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_InfoBEECET.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECET Programme\BEECET\obj\Debug\AnalyticalSupportData_InfoBEECET.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\ICEDatabase.mdf
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\ICEDatabase_log.ldf
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\BEECETool.dll.config
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\BEECETool.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\BEECETool.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RevitAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RevitAPIUI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RevitAPIFoundation.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RevitDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\UtilityAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\APIDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\GraphicsAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\EssentialsDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\GeomUtilAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\FamilyDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\DetailDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\HostObjDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\SiteDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\SculptingDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\StructuralDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\InterfaceAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RebarDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\MassingDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\AssemblyDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\DPartDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\NumberingDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\StairRampDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\DBManagedServices.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\AdWindows.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RevitAddInUtility.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\APIInterop.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\UIFramework.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\AddInManager.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RevitUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\DesktopMFCAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\APIUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RevitMFCAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\EssentialsUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\DetailUIAPI.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\UIFrameworkServices.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\ManagedMC3.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\Embodied Carbon Analysis.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\Excel.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\React.NET.pdb
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\React.NET.xml
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RevitAPI.xml
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\RevitAPIUI.xml
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\obj\Debug\AnalyticalSupportData_Info.csprojResolveAssemblyReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\obj\Debug\AnalyticalSupportData_Info.csproj.ResolveComReference.cache
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\obj\Debug\AnalyticalSupportData_Info.Embodied_Energy_and_Carbon.resources
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\obj\Debug\Revit.SDK.Samples.AnalyticalSupportData_Info.CS.OperationMode.resources
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\obj\Debug\AnalyticalSupportData_Info.Properties.Resources.resources
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\obj\Debug\AnalyticalSupportData_Info.csproj.GenerateResource.Cache
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\obj\Debug\BEECETool.dll
+C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\obj\Debug\BEECETool.pdb

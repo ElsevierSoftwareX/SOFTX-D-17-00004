@@ -1,0 +1,3 @@
+﻿------ Build started: Project: Ribbon, Configuration: Debug Any CPU ------
+  Ribbon ->  C:\Users\ETONAKPO\Documents\Visual Studio 2010\Projects\SteelSustainabilityEstimation\Ribbon\Ribbon.dll
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========

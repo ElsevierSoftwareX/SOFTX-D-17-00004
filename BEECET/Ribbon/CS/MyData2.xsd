@@ -1,0 +1,149 @@
+<?xml version="1.0" standalone="yes"?>
+<MyData2>
+  <xs:schema id="MyData2" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="MyData2" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Table1">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Column1" type="xs:string" minOccurs="0" />
+                <xs:element name="A" type="xs:string" minOccurs="0" />
+                <xs:element name="B" type="xs:string" minOccurs="0" />
+                <xs:element name="C" type="xs:string" minOccurs="0" />
+                <xs:element name="D" type="xs:string" minOccurs="0" />
+                <xs:element name="E" type="xs:string" minOccurs="0" />
+                <xs:element name="F" type="xs:string" minOccurs="0" />
+                <xs:element name="G" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Table1>
+    <A />
+    <B />
+  </Table1>
+  <Table1>
+    <A>= = = = = = = = Project</A>
+    <B>Information = = = =</B>
+  </Table1>
+  <Table1>
+    <A>  Project ID  </A>
+    <B>  RBP100</B>
+  </Table1>
+  <Table1>
+    <A>  Project Title  </A>
+    <B>  Research Building Project</B>
+  </Table1>
+  <Table1>
+    <A>  Project Location  </A>
+    <B>  Nottingham, UK</B>
+  </Table1>
+  <Table1>
+    <A>  Design Option No.  </A>
+    <B>  1</B>
+  </Table1>
+  <Table1>
+    <A>  Design Life  </A>
+    <B>  80 years</B>
+  </Table1>
+  <Table1>
+    <A>  Discount Rate  </A>
+    <B>  2 %</B>
+  </Table1>
+  <Table1>
+    <A />
+    <B />
+  </Table1>
+  <Table1>
+    <A />
+    <B>  Framing</B>
+    <C>  Floor</C>
+    <D>  Roof</D>
+    <E>  Cladding</E>
+    <F>  Total Value</F>
+  </Table1>
+  <Table1>
+    <A>= = = = = = Economic</A>
+    <B>Indicators = = = =</B>
+  </Table1>
+  <Table1>
+    <A>  Initial Cost (£) </A>
+    <B>  134,948.71</B>
+    <C>  332,097.95</C>
+    <D>  98,887.73</D>
+    <E>  55,264.70</E>
+    <F>  621199.083125</F>
+  </Table1>
+  <Table1>
+    <A>  Maintenance Cost (£) </A>
+    <B>  115,494.27</B>
+    <C>  568,654.44</C>
+    <D>  338,652.77</D>
+    <E>  189,260.53</E>
+    <F>  1,212,062.01</F>
+  </Table1>
+  <Table1>
+    <A>  Decommisioning (£) </A>
+    <B>  10,514.58</B>
+    <C xml:space="preserve">   </C>
+    <D xml:space="preserve">   </D>
+    <E xml:space="preserve">   </E>
+    <F>  10,514.58</F>
+  </Table1>
+  <Table1>
+    <A>  Residual Value (£) </A>
+    <B>  1,270.41</B>
+    <C xml:space="preserve">  </C>
+    <D xml:space="preserve">  </D>
+    <E xml:space="preserve">  </E>
+    <F>  1,270.41</F>
+  </Table1>
+  <Table1>
+    <A>  Lifecycle Cost (£)  </A>
+    <B>  259,687.15</B>
+    <C>  900,752.39</C>
+    <D>  437,540.50</D>
+    <E>  244,525.23</E>
+    <F>  1,842,505.27</F>
+  </Table1>
+  <Table1>
+    <A />
+    <B />
+  </Table1>
+  <Table1>
+    <A>= = = = Environmental</A>
+    <B>Indicators = = = =</B>
+  </Table1>
+  <Table1>
+    <A>  Embodied Energy (MJ)  </A>
+    <B>  962052</B>
+    <C>  13953.65</C>
+    <D>  93978.73</D>
+    <E>  493511.66</E>
+    <F>  1563496.04</F>
+  </Table1>
+  <Table1>
+    <A>  Carbon Footprint (kgCO2)  </A>
+    <B>  63916.49</B>
+    <C>  2099.01</C>
+    <D>  8835.91</D>
+    <E>  41287.25</E>
+    <F>  116138.66</F>
+  </Table1>
+  <Table1>
+    <A xml:space="preserve">  </A>
+    <B xml:space="preserve">  </B>
+  </Table1>
+  <Table1>
+    <A>      Ecological Footprint</A>
+    <B>  10.66</B>
+    <C>  0.13</C>
+    <D>  0.91</D>
+    <E>  4.77</E>
+    <F>  16.47</F>
+  </Table1>
+</MyData2>

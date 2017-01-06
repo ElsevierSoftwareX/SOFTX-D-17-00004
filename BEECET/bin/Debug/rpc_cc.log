@@ -1,0 +1,22 @@
+BEGIN 4120 Mon Jul 09 12:10:01 2012 "RPC API" The RPC API is contacting the RPC ACM.  
+
+LOG 4120 Mon Jul 09 12:10:01 2012 "RPC API" revoke licenses  
+
+WARNING 4120 Mon Jul 09 12:10:02 2012 "RPC Content Client" Unable to connect to the ArchVision Content Manager at the following address:
+127.0.0.1:14931
+Make sure that your RPC Content Configuration contains
+ the correct address for your ArchVision Content Manager.
+You may need to check with your office administrator
+to obtain the correct information, or you can use the Scan
+feature to locate the ArchVision Content Manager.  
+
+LOG 4120 Mon Jul 09 12:10:02 2012 "ArchVision Content Client" connection error == 10061  
+
+LOG 4120 Mon Jul 09 12:10:02 2012 "RPC API" revoke licenses  
+
+BEGIN 4120 Mon Jul 09 12:10:02 2012 "RPC API" RPC API scanning local paths....  
+
+END 4120 Mon Jul 09 12:10:02 2012 "RPC API" RPC API done scanning local paths.  
+
+END 4120 Mon Jul 09 12:10:02 2012 "RPC API" The RPC API is done contacting the RPC ACM.  
+

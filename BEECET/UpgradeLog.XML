@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AnalyticalSupportData_Info">
+</Property><Property Name="Solution File" Value="C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\AnalyticalSupportData_Info.sln">
+</Property><Property Name="Date" Value="14 April 2011">
+</Property><Property Name="Time" Value="10:39:22">
+</Property></Properties><Event ErrorLevel="0" Project="AnalyticalSupportData_Info" Source="AnalyticalSupportData_Info.csproj" Description="Project file successfully backed up as C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\Backup\AnalyticalSupportData_Info.csproj">
+</Event><Event ErrorLevel="0" Project="AnalyticalSupportData_Info" Source="AnalyticalSupportData_Info.cs" Description="File successfully backed up as C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\Backup\AnalyticalSupportData_Info.cs">
+</Event><Event ErrorLevel="0" Project="AnalyticalSupportData_Info" Source="AnalyticalSupportData_InfoForm.cs" Description="File successfully backed up as C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\Backup\AnalyticalSupportData_InfoForm.cs">
+</Event><Event ErrorLevel="0" Project="AnalyticalSupportData_Info" Source="AnalyticalSupportData_InfoForm.Designer.cs" Description="File successfully backed up as C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\Backup\AnalyticalSupportData_InfoForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="AnalyticalSupportData_Info" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AnalyticalSupportData_Info" Source="AnalyticalSupportData_InfoForm.resx" Description="File successfully backed up as C:\Revit SDK 2011\Software Development Kit\Samples\AnalyticalSupportData_Info\CS - Copy\Backup\AnalyticalSupportData_InfoForm.resx">
+</Event><Event ErrorLevel="0" Project="AnalyticalSupportData_Info" Source="AnalyticalSupportData_Info.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AnalyticalSupportData_Info" Source="AnalyticalSupportData_Info.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AnalyticalSupportData_Info" Source="AnalyticalSupportData_Info.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,240 @@
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(027A8D58)
+stdsoap2.cpp(5169): free(027A8D40)
+stdsoap2.cpp(5169): free(027A8D28)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(027A8C38)
+stdsoap2.cpp(5169): free(027A8C20)
+stdsoap2.cpp(5169): free(027A8C08)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(027A8B18)
+stdsoap2.cpp(5169): free(027A8B00)
+stdsoap2.cpp(5169): free(027A8AE8)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(027A8908)
+stdsoap2.cpp(5169): free(027A88F0)
+stdsoap2.cpp(5169): free(027A88D8)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(026D1BE8)
+stdsoap2.cpp(5169): free(026D1BD0)
+stdsoap2.cpp(5169): free(026D1BB8)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(027F8D58)
+stdsoap2.cpp(5169): free(027F8D40)
+stdsoap2.cpp(5169): free(027F8D28)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(027F8C38)
+stdsoap2.cpp(5169): free(027F8C20)
+stdsoap2.cpp(5169): free(027F8C08)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(027F8B18)
+stdsoap2.cpp(5169): free(027F8B00)
+stdsoap2.cpp(5169): free(027F8AE8)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(027F8908)
+stdsoap2.cpp(5169): free(027F88F0)
+stdsoap2.cpp(5169): free(027F88D8)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(02761C00)
+stdsoap2.cpp(5169): free(02761BE8)
+stdsoap2.cpp(5169): free(02761BD0)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(00AB9B48)
+stdsoap2.cpp(5169): free(00AB9B30)
+stdsoap2.cpp(5169): free(00AB9B18)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(00AB9A28)
+stdsoap2.cpp(5169): free(00AB9A10)
+stdsoap2.cpp(5169): free(00AB99F8)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(00AB9908)
+stdsoap2.cpp(5169): free(00AB98F0)
+stdsoap2.cpp(5169): free(00AB98D8)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(00AB96F8)
+stdsoap2.cpp(5169): free(00AB96E0)
+stdsoap2.cpp(5169): free(00AB96C8)
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free all soap_malloc() data
+Done with context
+Free namespace stack
+Free any remaining temp blocks
+Free attribute storage
+Free pointer hashtable
+Free ID hashtable
+Free logfiles
+stdsoap2.cpp(5169): free(00C31BB8)
+stdsoap2.cpp(5169): free(00C31BA0)
+stdsoap2.cpp(5169): free(00C31B88)

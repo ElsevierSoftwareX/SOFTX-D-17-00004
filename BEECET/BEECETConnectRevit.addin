@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>C:\Users\p0077247\Documents\Visual Studio 2012\Projects\BEECETPro\BEECET\bin\Debug\BEECETool.dll</Assembly>
+    <ClientId>4367318e-3965-422c-887f-554694376068</ClientId>
+    <FullClassName>Revit.SDK.Samples.AnalyticalSupportData_Info.CS.Command</FullClassName>
+    <Text>BEECE Tool</Text>
+    <Description>Displays the element's support information</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

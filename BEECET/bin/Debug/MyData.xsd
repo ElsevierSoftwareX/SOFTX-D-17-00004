@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="MyTable">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="UniqueID" type="xs:string" minOccurs="0" />
+                <xs:element name="ElementID" type="xs:string" minOccurs="0" />
+                <xs:element name="SectionSize" type="xs:string" minOccurs="0" />
+                <xs:element name="Length" type="xs:string" minOccurs="0" />
+                <xs:element name="EndConnectionA" type="xs:string" minOccurs="0" />
+                <xs:element name="EndConnectionB" type="xs:string" minOccurs="0" />
+                <xs:element name="OtherConnectionsC" type="xs:string" minOccurs="0" />
+                <xs:element name="Members" type="xs:string" minOccurs="0" />
+                <xs:element name="Weight" type="xs:string" minOccurs="0" />
+                <xs:element name="MemberCost" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <MyTable>
+    <UniqueID />
+    <ElementID />
+    <SectionSize>UB1016x305x222+</SectionSize>
+    <Length>4</Length>
+    <EndConnectionA>L (Plate)</EndConnectionA>
+    <EndConnectionB>L (Plate)</EndConnectionB>
+    <OtherConnectionsC />
+    <Members>44</Members>
+    <Weight>39.072</Weight>
+    <MemberCost>62771.48</MemberCost>
+  </MyTable>
+</NewDataSet>
